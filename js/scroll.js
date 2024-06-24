@@ -13,9 +13,9 @@ sr.reveal('.nav-bar', {
     // distance: '-100px',
 });
 sr.reveal('footer', {
-    duration: 1500,
-    origin: 'top',
-    distance: '-200px'
+    duration: 1200,
+    origin: 'bottom',
+    distance: '-10px'
 });
 
 sr.reveal('.cars-tab', {

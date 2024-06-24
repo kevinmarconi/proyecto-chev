@@ -621,6 +621,7 @@ body {
 
 .titulo2 h1 {
     display: flex;
+    justify-content: center;
     font-size: 60px;
     box-shadow: rgba(255, 209, 27, 0.922) 0px 5px 15px;
 }
